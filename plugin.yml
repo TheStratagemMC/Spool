@@ -1,0 +1,7 @@
+name: Spool
+author: akselm
+version: 1.0
+main: code.akselm.spool.Spool
+depend: [Citizens,Sentinel]
+commands:
+  spoolspawn:
